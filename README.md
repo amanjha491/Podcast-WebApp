@@ -16,3 +16,6 @@ Playlists: list of music playlist created by user, and also a button to create m
 
 User need to login and authenticate before going to the home screen.
 Authentication will done by keycloak.
+
+
+![Screenshot 2023-06-23 at 2 21 01 AM](https://github.com/amanjha491/Podcast-WebApp/assets/94465601/85cd52ea-6487-4a5a-b811-6b07c1b82506)
